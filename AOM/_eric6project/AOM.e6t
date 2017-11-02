@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project AOM -->
+<!-- Saved: 2017-11-02, 01:17:17 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{a5cdf585-34d4-456e-9d6a-7c648fcdd13c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 00:56:14</Created>
+    <Resource>
+      <Filename>UI_1/Menu.py</Filename>
+      <Linenumber>29</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ebf9c71a-3fd1-46a2-963d-3376811c51cb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 00:56:36</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Choose.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{95ea4660-6487-4ee4-a72f-5b4e536d915d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 00:56:36</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Choose.py</Filename>
+      <Linenumber>42</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2ccf9eb4-5fce-453f-81fa-b076b8f6690d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 01:04:28</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Audio.py</Filename>
+      <Linenumber>42</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{008f3890-0944-4d20-9347-62256eb3a193}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 01:04:28</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Audio.py</Filename>
+      <Linenumber>51</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2b048ff7-4821-443e-9db4-fc38ad4d726f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 01:04:28</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Audio.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{955355f5-e3ff-4309-9a67-88965f1a8f2d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 01:04:28</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Audio.py</Filename>
+      <Linenumber>79</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e9cfc87c-9a74-4e7f-b62b-7eaaa597fdd4}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-02, 01:04:28</Created>
+    <Resource>
+      <Filename>UI_1/Xiaozhi_Audio.py</Filename>
+      <Linenumber>89</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

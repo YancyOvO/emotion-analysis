@@ -1,0 +1,1 @@
+alter table comment AUTO_INCREMENT=0;
